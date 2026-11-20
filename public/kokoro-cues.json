@@ -1,0 +1,470 @@
+{
+  "durationSeconds": 38.85,
+  "durationInFrames": 1166,
+  "beatTimings": {
+    "b1": {
+      "startSec": 0.15,
+      "endSec": 2.776,
+      "startFrame": 4,
+      "endFrame": 83,
+      "text": "In this world, everyone gets one hundred words a day."
+    },
+    "b2": {
+      "startSec": 2.856,
+      "endSec": 5.5,
+      "startFrame": 86,
+      "endFrame": 165,
+      "text": "A counter above your head shows every word you have left."
+    },
+    "b3": {
+      "startSec": 5.58,
+      "endSec": 7.883,
+      "startFrame": 167,
+      "endFrame": 237,
+      "text": "Spend them all, and you can't speak until midnight."
+    },
+    "b4": {
+      "startSec": 7.963,
+      "endSec": 9.998,
+      "startFrame": 239,
+      "endFrame": 300,
+      "text": "Rich kids burn theirs on jokes and songs."
+    },
+    "b5": {
+      "startSec": 10.078,
+      "endSec": 13.142,
+      "startFrame": 302,
+      "endFrame": 394,
+      "text": "My teacher makes us raise a finger for every word in class."
+    },
+    "b6": {
+      "startSec": 13.212,
+      "endSec": 15.675,
+      "startFrame": 396,
+      "endFrame": 470,
+      "text": "The bully spends fifty words just to call me names."
+    },
+    "b7": {
+      "startSec": 15.755,
+      "endSec": 18.331,
+      "startFrame": 473,
+      "endFrame": 550,
+      "text": "But me? I don't talk. I save every single word."
+    },
+    "b8": {
+      "startSec": 18.412,
+      "endSec": 20.246,
+      "startFrame": 552,
+      "endFrame": 607,
+      "text": "The whole school calls me the Quiet Kid."
+    },
+    "b9": {
+      "startSec": 20.316,
+      "endSec": 23.283,
+      "startFrame": 609,
+      "endFrame": 699,
+      "text": "Only my little sister thinks I'm saving up for something big."
+    },
+    "b10": {
+      "startSec": 23.363,
+      "endSec": 26.78,
+      "startFrame": 701,
+      "endFrame": 803,
+      "text": "Then yesterday, she fell off the slide, and her counter hit zero."
+    },
+    "b11": {
+      "startSec": 26.88,
+      "endSec": 28.346,
+      "startFrame": 806,
+      "endFrame": 850,
+      "text": "She couldn't even whisper for help."
+    },
+    "w1": {
+      "startSec": 28.466,
+      "endSec": 29.057,
+      "startFrame": 854,
+      "endFrame": 872,
+      "text": "HELP!"
+    },
+    "w2": {
+      "startSec": 29.177,
+      "endSec": 29.776,
+      "startFrame": 875,
+      "endFrame": 893,
+      "text": "NOW!"
+    },
+    "b12": {
+      "startSec": 29.956,
+      "endSec": 32.262,
+      "startFrame": 899,
+      "endFrame": 968,
+      "text": "Mom ran the whole way, and stayed by her side."
+    },
+    "b13": {
+      "startSec": 32.342,
+      "endSec": 35.216,
+      "startFrame": 970,
+      "endFrame": 1056,
+      "text": "My counter read ninety-eight. Worth every single word."
+    },
+    "b14": {
+      "startSec": 35.336,
+      "endSec": 38.151,
+      "startFrame": 1060,
+      "endFrame": 1145,
+      "text": "But last night, she spent her first new word on me... 'hero'."
+    }
+  },
+  "captions": [
+    {
+      "startFrame": 4,
+      "endFrame": 15,
+      "text": "In this"
+    },
+    {
+      "startFrame": 16,
+      "endFrame": 39,
+      "text": "world, everyone"
+    },
+    {
+      "startFrame": 40,
+      "endFrame": 52,
+      "text": "gets one"
+    },
+    {
+      "startFrame": 53,
+      "endFrame": 73,
+      "text": "hundred words"
+    },
+    {
+      "startFrame": 74,
+      "endFrame": 82,
+      "text": "a day."
+    },
+    {
+      "startFrame": 86,
+      "endFrame": 98,
+      "text": "A counter"
+    },
+    {
+      "startFrame": 99,
+      "endFrame": 114,
+      "text": "above your"
+    },
+    {
+      "startFrame": 115,
+      "endFrame": 129,
+      "text": "head shows"
+    },
+    {
+      "startFrame": 130,
+      "endFrame": 144,
+      "text": "every word"
+    },
+    {
+      "startFrame": 145,
+      "endFrame": 156,
+      "text": "you have"
+    },
+    {
+      "startFrame": 157,
+      "endFrame": 164,
+      "text": "left."
+    },
+    {
+      "startFrame": 167,
+      "endFrame": 181,
+      "text": "Spend them"
+    },
+    {
+      "startFrame": 182,
+      "endFrame": 193,
+      "text": "all, and"
+    },
+    {
+      "startFrame": 194,
+      "endFrame": 206,
+      "text": "you can't"
+    },
+    {
+      "startFrame": 207,
+      "endFrame": 222,
+      "text": "speak until"
+    },
+    {
+      "startFrame": 223,
+      "endFrame": 236,
+      "text": "midnight."
+    },
+    {
+      "startFrame": 239,
+      "endFrame": 252,
+      "text": "Rich kids"
+    },
+    {
+      "startFrame": 253,
+      "endFrame": 270,
+      "text": "burn theirs"
+    },
+    {
+      "startFrame": 271,
+      "endFrame": 283,
+      "text": "on jokes"
+    },
+    {
+      "startFrame": 284,
+      "endFrame": 299,
+      "text": "and songs."
+    },
+    {
+      "startFrame": 302,
+      "endFrame": 318,
+      "text": "My teacher"
+    },
+    {
+      "startFrame": 319,
+      "endFrame": 341,
+      "text": "makes us raise"
+    },
+    {
+      "startFrame": 342,
+      "endFrame": 355,
+      "text": "a finger"
+    },
+    {
+      "startFrame": 356,
+      "endFrame": 370,
+      "text": "for every"
+    },
+    {
+      "startFrame": 371,
+      "endFrame": 393,
+      "text": "word in class."
+    },
+    {
+      "startFrame": 396,
+      "endFrame": 409,
+      "text": "The bully"
+    },
+    {
+      "startFrame": 410,
+      "endFrame": 428,
+      "text": "spends fifty"
+    },
+    {
+      "startFrame": 429,
+      "endFrame": 444,
+      "text": "words just"
+    },
+    {
+      "startFrame": 445,
+      "endFrame": 455,
+      "text": "to call"
+    },
+    {
+      "startFrame": 456,
+      "endFrame": 469,
+      "text": "me names."
+    },
+    {
+      "startFrame": 473,
+      "endFrame": 484,
+      "text": "But me?"
+    },
+    {
+      "startFrame": 485,
+      "endFrame": 497,
+      "text": "I don't"
+    },
+    {
+      "startFrame": 498,
+      "endFrame": 518,
+      "text": "talk. I save"
+    },
+    {
+      "startFrame": 519,
+      "endFrame": 540,
+      "text": "every single"
+    },
+    {
+      "startFrame": 541,
+      "endFrame": 549,
+      "text": "word."
+    },
+    {
+      "startFrame": 552,
+      "endFrame": 565,
+      "text": "The whole"
+    },
+    {
+      "startFrame": 566,
+      "endFrame": 583,
+      "text": "school calls"
+    },
+    {
+      "startFrame": 584,
+      "endFrame": 591,
+      "text": "me the"
+    },
+    {
+      "startFrame": 592,
+      "endFrame": 606,
+      "text": "Quiet Kid."
+    },
+    {
+      "startFrame": 609,
+      "endFrame": 630,
+      "text": "Only my little"
+    },
+    {
+      "startFrame": 631,
+      "endFrame": 651,
+      "text": "sister thinks"
+    },
+    {
+      "startFrame": 652,
+      "endFrame": 666,
+      "text": "I'm saving"
+    },
+    {
+      "startFrame": 667,
+      "endFrame": 676,
+      "text": "up for"
+    },
+    {
+      "startFrame": 677,
+      "endFrame": 698,
+      "text": "something big."
+    },
+    {
+      "startFrame": 701,
+      "endFrame": 726,
+      "text": "Then yesterday,"
+    },
+    {
+      "startFrame": 727,
+      "endFrame": 739,
+      "text": "she fell"
+    },
+    {
+      "startFrame": 740,
+      "endFrame": 751,
+      "text": "off the"
+    },
+    {
+      "startFrame": 752,
+      "endFrame": 768,
+      "text": "slide, and"
+    },
+    {
+      "startFrame": 769,
+      "endFrame": 787,
+      "text": "her counter"
+    },
+    {
+      "startFrame": 788,
+      "endFrame": 802,
+      "text": "hit zero."
+    },
+    {
+      "startFrame": 806,
+      "endFrame": 821,
+      "text": "She couldn't"
+    },
+    {
+      "startFrame": 822,
+      "endFrame": 837,
+      "text": "even whisper"
+    },
+    {
+      "startFrame": 838,
+      "endFrame": 849,
+      "text": "for help."
+    },
+    {
+      "startFrame": 854,
+      "endFrame": 875,
+      "text": "HELP!"
+    },
+    {
+      "startFrame": 875,
+      "endFrame": 896,
+      "text": "NOW!"
+    },
+    {
+      "startFrame": 899,
+      "endFrame": 909,
+      "text": "Mom ran"
+    },
+    {
+      "startFrame": 910,
+      "endFrame": 924,
+      "text": "the whole"
+    },
+    {
+      "startFrame": 925,
+      "endFrame": 937,
+      "text": "way, and"
+    },
+    {
+      "startFrame": 938,
+      "endFrame": 959,
+      "text": "stayed by her"
+    },
+    {
+      "startFrame": 960,
+      "endFrame": 967,
+      "text": "side."
+    },
+    {
+      "startFrame": 970,
+      "endFrame": 986,
+      "text": "My counter"
+    },
+    {
+      "startFrame": 987,
+      "endFrame": 1017,
+      "text": "read ninety-eight."
+    },
+    {
+      "startFrame": 1018,
+      "endFrame": 1035,
+      "text": "Worth every"
+    },
+    {
+      "startFrame": 1036,
+      "endFrame": 1055,
+      "text": "single word."
+    },
+    {
+      "startFrame": 1060,
+      "endFrame": 1071,
+      "text": "But last"
+    },
+    {
+      "startFrame": 1072,
+      "endFrame": 1086,
+      "text": "night, she"
+    },
+    {
+      "startFrame": 1087,
+      "endFrame": 1100,
+      "text": "spent her"
+    },
+    {
+      "startFrame": 1101,
+      "endFrame": 1113,
+      "text": "first new"
+    },
+    {
+      "startFrame": 1114,
+      "endFrame": 1133,
+      "text": "word on me..."
+    },
+    {
+      "startFrame": 1134,
+      "endFrame": 1144,
+      "text": "'hero'."
+    }
+  ]
+}
